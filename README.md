@@ -1,4 +1,4 @@
-# 🎯 Heavy Core Trigger — Minecraft Trial Chambers
+# 🎯 Heavy Core Trigger — Minecraft Trial Chambers JAVA
 
 > The vault opened. The loot is gone. So why does the Heavy Core still look so... clickable?
 
