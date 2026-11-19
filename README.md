@@ -35,7 +35,6 @@ No game files are touched. It's pure screen capture + simulated input.
 - **Windows** (uses `ctypes.windll` and Win32 mouse events)
 - **Python 3.11+**
 - `numpy`, `mss`
-- `keyboard` *(optional — enables the F6 global hotkey)*
 
 ```bash
 pip install -r requirements.txt
