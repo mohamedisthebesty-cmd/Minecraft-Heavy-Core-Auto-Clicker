@@ -67,8 +67,7 @@ Point it at a different block, a different state, or a different game entirely �
 
 ## ⚠️ Notes
 
-- The window is **always-on-top** by design so you can watch it in-game.
-- `keyboard` hooks are global — some anti-cheat / admin setups may not appreciate that.
+- The window is **always-on-top** by design so you can watch it in-game. Therefore advised to have Minecraft windowed.
 - Automation may violate the rules of multiplayer servers. **Singleplayer or your own server only.**
 - This is an experiment, not a guaranteed Heavy Core machine. Results may vary; science doesn't.
 
